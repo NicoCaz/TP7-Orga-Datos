@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TP7 title="Pros y Contras del formato SVG">
+<Cuerpo>
+<Pros>
+– tamaño pequeño. 
+– flexibilidad con CSS
+– escalabilidad sin cambiar la calidad de la imagen. 
+– es posible visualizar los contenidos de un archivo SVG en cualquier navegador
+</Pros>
+<Contras>
+– El tamaño del archivo crece muy rápido si el objeto consiste de un gran número de pequeños elementos
+– Es imposible leer una parte del objeto gráfico, solamente se puede leer el objeto entero y eso baja tu velocidad.
+</Contras>
+
+</Cuerpo>
+
+</TP7>

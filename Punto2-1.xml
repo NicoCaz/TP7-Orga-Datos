@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TP7 title="BBDD Cine">
+<Cuerpo title="Datos">
+    <Sala></Sala>
+    <Pelicula></Pelicula>
+    <Descripcion></Descripcion>
+    <Horario></Horario>
+    <Entradas_Vendidas></Entradas_Vendidas>
+    <Precio_entrada></Precio_entrada>
+</Cuerpo>

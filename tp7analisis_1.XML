@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TP7 title="Factura">
+<Cuerpo title="Cuerpo factura">
+    <Datos_Empresa>
+        <Nombre></Nombre>
+        <Direccion></Direccion>
+        <CUIT></CUIT>
+        <Datos_de_contacto></Datos_de_contacto>
+    </Datos_Empresa>
+    <Datos_Clientes>
+        <Nombre></Nombre>
+        <Direccion></Direccion>
+        <CUIT></CUIT>
+        <Datos_de_contacto></Datos_de_contacto>
+        <Tipo></Tipo>
+    </Datos_Clientes>
+    <Lista_Productos>
+     <!--ACA VAN LOS PRODUCTOS DE LA FACTURA-->
+        <Producto title="">
+            <Código></Código>
+            <Descripción></Descripción>
+            <Cantidad></Cantidad>
+            <Precio></Precio>
+            <IVA></IVA>
+            <Importe></Importe>
+        </Producto>
+    </Lista_Productos>
+    <Total>
+        <Tipo_de_Descuento></Tipo_de_Descuento>
+        <Descuento></Descuento>
+        <Total></Total>
+    </Total>
+</Cuerpo>
+
+</TP7>
